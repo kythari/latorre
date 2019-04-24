@@ -195,9 +195,9 @@ h4 a:hover,
   text-decoration: none;
 }
 
-p{
+/* p{
   margin-bottom: 1.6em;
-}
+} */
 
 b, strong{
   font-family: 'Montserrat', sans-serif;
@@ -700,9 +700,9 @@ label.error{
 .vertical-panel,
 .vertical-panel-content{
   position: absolute;
-  width: 19.735vmin;
+  width: 12.735vmin;
   left: 0;
-  bottom: 0;
+  bottom: 62%;
   text-align: center;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
